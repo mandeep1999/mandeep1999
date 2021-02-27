@@ -15,22 +15,6 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
-### My Tech Stack:
-
-<img src="https://github.com/ranjan-panda/Bio/blob/master/flutter.gif" width="70px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/dart.png" height="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/firebase.gif" height="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/restapi.jpg" height="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/java.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/nodejsnew.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/php.gif" height="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/mysql.jpg" width="100px"></h2>&nbsp; &nbsp; &nbsp;
-
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
 ### Contact Me <br>
