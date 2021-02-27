@@ -1,8 +1,4 @@
-<img src="https://github.com/ranjan-panda/Bio/blob/master/Powerfull-words-PixTeller%20(1)%20(1).gif" width="480px"></h2>&nbsp; &nbsp; &nbsp;
-
-### There are (10^9 + 7) profiles on Github......Welcome to mine! <img src="https://github.com/ranjan-panda/Bio/blob/master/gifs/emoji.gif" width="27px">
-
-I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Flutter Development 🚀 and working on my Public Speaking Skills🤓.
+I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Flutter Development 🚀.
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
@@ -12,11 +8,10 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 - 🛠 I’m currently working on Flutter.
 - :wrench: I love making Android and iOS apps with Dart 📱 .
-- 👾 Most of my projects are available on [Github](https://github.com/ranjan-panda/).
-- 👨 From using TV Remote as a Mobile to using Mobile as a TV Remote, I grew up (PS: I MISS MY CHILDHOOD :sob::sob::sob:).
-- 👅 I prefer Python Over C++ &nbsp; &nbsp;:P :D
-- 📫 How to reach me: preetiranjanpanda2014@gmail.com
-- 📝 Checkout my [Resume](https://github.com/ranjan-panda/ranjan-panda/blob/master/Resume.pdf).
+- 👾 Most of my projects are available on [Github](https://github.com/mandeep1999/).
+- 👅 I prefer C++ over Java &nbsp; &nbsp;:P :D
+- 📫 How to reach me: mandy.sgh.99@gmail.com
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1RqW9pDlWA_JaeTKOwCS_1FQUKN5ZSfP_/view?usp=sharing).
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
@@ -28,12 +23,9 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/ranjan-panda/Bio/blob/master/restapi.jpg" height="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/java.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/hadoop.jpg" width="80px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
-<img src="https://github.com/ranjan-panda/Bio/blob/master/flask.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/nodejsnew.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/ranjan-panda/Bio/blob/master/php.gif" height="50px"></h2>&nbsp; &nbsp; &nbsp;
@@ -42,31 +34,27 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
 ### Contact Me <br>
-[<img align="left" alt="https://www.linkedin.com/in/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
-[<img align="left" alt="https://github.com/ranjan-panda/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/github.gif" />][github]
-[<img align="left" alt="https://www.facebook.com/p.ranjan.panda.1" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/fb.gif" />][facebook]\
+
+[<img align="left" alt="https://www.linkedin.com/in/mandysgh/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
+[<img align="left" alt="https://github.com/mandeep1999" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/github.gif" />][github]
+[<img align="left" alt="https://www.facebook.com/profile.php?id=100016766658310" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/fb.gif" />][facebook]\
 <br/>
 
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
 
-
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
-<a href="https://github.com/ranjan-panda">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ranjan-panda&show_icons=true&theme=merko&count_private=true" />
+<a href="https://github.com/mandeep1999">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mandeep1999&show_icons=true&theme=merko&count_private=true" />
 </a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<a href="https://github.com/ranjan-panda">
-  <img align="left" height = "296px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-panda&theme=gruvbox" />
+<a href="https://github.com/mandeep1999">
+  <img align="left" height = "296px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeep1999&theme=gruvbox" />
 </a>
-
-
-
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/add2.gif" width="1400px" height="10px"></h2>
 
-
-[linkedin]:https://www.linkedin.com/in/ranjan-panda
-[github]:https://github.com/ranjan-panda/
-[facebook]:https://www.facebook.com/p.ranjan.panda.1
+[linkedin]: https://www.linkedin.com/in/mandysgh/
+[github]: https://github.com/mandeep1999
+[facebook]: https://www.facebook.com/profile.php?id=100016766658310
