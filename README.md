@@ -15,8 +15,6 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
-<img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
-
 ### Contact Me <br>
 
 [<img align="left" alt="https://www.linkedin.com/in/mandysgh/" width="50px" src="https://github.com/ranjan-panda/Bio/blob/master/linkedin.gif" />][linkedin]
