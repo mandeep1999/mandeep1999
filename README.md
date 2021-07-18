@@ -11,7 +11,7 @@ I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 f
 - 👾 Most of my projects are available on [Github](https://github.com/mandeep1999/).
 - 👅 I prefer C++ over Java &nbsp; &nbsp;:P :D
 - 📫 How to reach me: mandy.sgh.99@gmail.com
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1RqW9pDlWA_JaeTKOwCS_1FQUKN5ZSfP_/view?usp=sharing).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1np33KokrSWoxF15LZ-zgx1wQPWoA5cOB/view?usp=sharing).
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
