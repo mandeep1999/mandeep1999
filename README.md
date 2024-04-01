@@ -11,7 +11,7 @@ Dedicated Android developer with over two years of experience specializing in cr
 - 👾 Most of my projects are available on [Github](https://github.com/mandeep1999/).
 - 👅 I prefer C++ over Java &nbsp; &nbsp;:P :D
 - 📫 How to reach me: mandy.sgh.99@gmail.com
-- 📝 Checkout my [Resume]([https://drive.google.com/file/d/1np33KokrSWoxF15LZ-zgx1wQPWoA5cOB/view?usp=sharing](https://drive.google.com/file/d/1P8ck9y6rV7DKfqDMd_lSFbdWb_EKfE3Y/view?usp=drive_link)).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1P8ck9y6rV7DKfqDMd_lSFbdWb_EKfE3Y/view?usp=drive_link).
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
