@@ -1,4 +1,4 @@
-I'm a pre-final year student pursuing Bachelors in Information Technology 🎓 from **Vellore Institute of Technology** 🏛. I'm a passionate learner who is always willing to learn and work across different technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to Code👨🏻‍💻. I'm currently into Flutter Development and  Android Development🚀.
+Dedicated Android developer with over two years of experience specializing in creating intuitive and feature-rich mobile applications. Committed to pushing the boundaries of mobile technology and delivering exceptional user experiences. Let's connect and discuss how we can bring your ideas to life.
 
 <img src="https://github.com/ranjan-panda/Bio/blob/master/border.gif" width="1100px" height="25px"></h2>
 
