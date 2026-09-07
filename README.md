@@ -1,42 +1,27 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Mandeep Singh — Android Platform & UI Engineer" width="100%" />
+  <img src="./assets/banner.png" alt="Mandeep Singh — Android Platform and UI Engineer" width="100%" />
   <br />
-  <a href="https://readme-typing-svg.demolab.com/?font=Georgia&weight=500&size=24&duration=3500&pause=900&color=4BE0CF&center=true&vCenter=true&width=820&lines=Android+Platform+%26+UI+Engineer;I+build+Android+platforms+people+ship+on.;Live+Updates+%C2%B7+Deeplinks+%C2%B7+Migrations">
-    <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=500&size=24&duration=3500&pause=900&color=4BE0CF&center=true&vCenter=true&width=820&lines=Android+Platform+%26+UI+Engineer;I+build+Android+platforms+people+ship+on.;Live+Updates+%C2%B7+Deeplinks+%C2%B7+Migrations" alt="Typing headline" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=500&amp;size=24&amp;duration=3500&amp;pause=900&amp;color=4BE0CF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Android+Platform+and+UI+Engineer;I+build+Android+platforms+people+ship+on.;Live+Updates+·+Deeplinks+·+Migrations" alt="Typing headline" />
   <br />
   <a href="https://mandeep-singh.in/"><img src="https://img.shields.io/badge/Portfolio-mandeep--singh.in-4be0cf?style=for-the-badge&labelColor=0a171c&color=4be0cf" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mandysgh/"><img src="https://img.shields.io/badge/LinkedIn-mandysgh-4be0cf?style=for-the-badge&logo=linkedin&logoColor=4be0cf&labelColor=0a171c" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://medium.com/@mandy.sgh.99"><img src="https://img.shields.io/badge/Medium-@mandy.sgh.99-4be0cf?style=for-the-badge&logo=medium&logoColor=4be0cf&labelColor=0a171c" alt="Medium" /></a>
+  <a href="https://medium.com/@mandy.sgh.99"><img src="https://img.shields.io/badge/Medium-%40mandy.sgh.99-4be0cf?style=for-the-badge&logo=medium&logoColor=4be0cf&labelColor=0a171c" alt="Medium" /></a>
   &nbsp;
-  <a href="mailto:mandy.sgh.99@gmail.com"><img src="https://img.shields.io/badge/Email-mandy.sgh.99@gmail.com-4be0cf?style=for-the-badge&logo=gmail&logoColor=4be0cf&labelColor=0a171c" alt="Email" /></a>
+  <a href="mailto:mandy.sgh.99@gmail.com"><img src="https://img.shields.io/badge/Email-mandy.sgh.99%40gmail.com-4be0cf?style=for-the-badge&logo=gmail&logoColor=4be0cf&labelColor=0a171c" alt="Email" /></a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1P8ck9y6rV7DKfqDMd_lSFbdWb_EKfE3Y/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-4be0cf?style=for-the-badge&logo=adobeacrobatreader&logoColor=4be0cf&labelColor=0a171c" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1P8ck9y6rV7DKfqDMd_lSFbdWb_EKfE3Y/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-4be0cf?style=for-the-badge&logo=googledrive&logoColor=4be0cf&labelColor=0a171c" alt="Resume" /></a>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=mandeep1999&label=Profile%20views&color=4be0cf&style=flat-square" alt="Profile views" />
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<table>
-  <tr>
-    <td width="28%" valign="top" align="center">
-      <img src="./assets/profile.webp" width="220" alt="Portrait of Mandeep Singh" />
-      <br />
-      <sub>Software Engineer – 3<br />Walmart Global Tech India<br />Bengaluru</sub>
-    </td>
-    <td valign="top">
+<img src="./assets/divider.png" alt="" width="100%" />
 
 **Shared foundations. Polished interfaces.**  
 I work across Walmart’s multi-tenant shopping apps — Live Updates, deeplinks, migrations, and the platform pieces other teams ship on.
 
 Currently: **Software Engineer – 3** at [Walmart Global Tech India](https://tech.walmart.com/) (Nov 2024 – Present). Before that I owned Android at [WorkIndia](https://www.workindia.in/) — reliability, server-driven UI, and PAN-India releases on 1M+ users.
-
-    </td>
-  </tr>
-</table>
 
 <table align="center" width="100%">
   <tr>
@@ -55,7 +40,7 @@ Currently: **Software Engineer – 3** at [Walmart Global Tech India](https://te
   </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ## Currently · Walmart Global Tech
 
@@ -80,7 +65,7 @@ Currently: **Software Engineer – 3** at [Walmart Global Tech India](https://te
 
 </details>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ## Selected work
 
@@ -136,24 +121,15 @@ Currently: **Software Engineer – 3** at [Walmart Global Tech India](https://te
 
 **B.Tech — Information Technology**, VIT University · 2018 – 2022 · CGPA **9.04** · Vellore
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ## GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mandeep1999&show_icons=true&hide_border=true&bg_color=050A0C&title_color=4BE0CF&text_color=F2F7F8&icon_color=4BE0CF&ring_color=4BE0CF&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mandeep1999&show_icons=true&hide_border=true&bg_color=050A0C&title_color=4BE0CF&text_color=F2F7F8&icon_color=4BE0CF&ring_color=4BE0CF&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=mandeep1999&hide_border=true&background=050A0C&ring=4BE0CF&fire=4BE0CF&currStreakBar=1AA897&sideBars=1AA897&currStreakLabel=4BE0CF&sideLabels=8AA3AA&dates=8AA3AA&stroke=4BE0CF" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeep1999&layout=compact&hide_border=true&bg_color=050A0C&title_color=4BE0CF&text_color=F2F7F8" alt="Top languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandeep1999/mandeep1999/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mandeep1999/mandeep1999/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mandeep1999&layout=compact&hide_border=true&bg_color=050A0C&title_color=4BE0CF&text_color=F2F7F8" alt="Top languages" />
 </div>
 
 <p align="center">
