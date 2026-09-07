@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/banner.png" alt="Mandeep Singh — Android Platform and UI Engineer" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=500&amp;size=24&amp;duration=3500&amp;pause=900&amp;color=4BE0CF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Android+Platform+and+UI+Engineer;I+build+Android+platforms+people+ship+on.;Live+Updates+·+Deeplinks+·+Migrations" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BE0CF&center=true&vCenter=true&width=800&lines=Android+Platform+and+UI+Engineer;I+build+Android+platforms+people+ship+on." alt="Typing headline" />
   <br />
   <a href="https://mandeep-singh.in/"><img src="https://img.shields.io/badge/Portfolio-mandeep--singh.in-4be0cf?style=for-the-badge&labelColor=0a171c&color=4be0cf" alt="Portfolio" /></a>
   &nbsp;
